@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TravelConsuption</string>
+    <string name="calcule_o_seu_consumo_de_viagem">Calcule o seu consumo de viagem</string>
+    <string name="distancia">Distância</string>
+    <string name="digite_o_total_em_quilometros">Digite o total em Quilômetros</string>
+    <string name="preco_por_litro">Preço por Litro</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="quilometro_por_litro">Quilômetro por Litro</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="gasto_total">Gasto Total</string>
+</resources>
