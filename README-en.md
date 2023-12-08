@@ -22,6 +22,11 @@ The following topics were covered during the course:
 
 This is a basic application designed to calculate the cost of a car trip, using three essential values: the total distance to be traveled, the price of gasoline, and the vehicle's autonomy. By entering this information and triggering the calculation button, the application provides the user with the estimated total cost required for the trip.
 
+<div align="center">
+  <img src="./public/Screenshot-1.png" width="30%" />
+  <img src="./public/Screenshot-2.png" width="30%" />
+</div>
+
 <br/>
 
 <img src="./public/footer.png" width="100%" />

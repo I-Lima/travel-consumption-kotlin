@@ -22,6 +22,11 @@ Os seguintes tópicos foram abordados durante o curso:
 
 Este é um aplicativo básico projetado para calcular o custo de uma viagem de carro, utilizando três valores essenciais: a distância total a ser percorrida, o preço da gasolina e a autonomia do veículo. Ao inserir esses dados e acionar o botão de cálculo, o aplicativo fornece ao usuário o valor total estimado necessário para a viagem.
 
+<div align="center">
+  <img src="./public/Screenshot-1.png" width="30%" />
+  <img src="./public/Screenshot-2.png" width="30%" />
+</div>
+
 <br/>
 
 <img src="./public/footer.png" width="100%" />
